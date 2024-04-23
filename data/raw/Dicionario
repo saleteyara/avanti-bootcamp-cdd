@@ -1,4 +1,4 @@
-~1
+-1
 variavel: carat
 
 descricao: refere-se ao peso do diamante
@@ -7,7 +7,7 @@ tipo: quantitativa
 
 subtipo:contínua
 
-~2
+-2
 variavel: cut
 
 descricao: refere-se à qualidade do diamante
@@ -16,7 +16,7 @@ tipo: qualitativa
 
 subtipo:nominal
 
-~3
+-3
 variavel: color
 
 descricao: refere-se à cor do diamante
@@ -24,4 +24,58 @@ descricao: refere-se à cor do diamante
 tipo: qualitativa
 
 subtipo:nominal
+
+-4
+variavel: clarity
+
+descricao: refere-se à claridade do diamante
+
+tipo: qualitativa
+
+subtipo:nominal
+
+-5
+variavel: x
+
+descricao: refere-se ao comprimento do diamante
+
+tipo: quantitativa 
+
+subtipo:contínua
+
+-6
+variavel: y
+
+descricao: refere-se ao largura do diamante
+
+tipo: quantitativa 
+
+subtipo:contínua
+
+-7
+variavel: depth
+
+descricao: refere-se à profundidade do diamante
+
+tipo: quantitativa 
+
+subtipo:contínua
+
+-8
+variavel: table
+
+descricao: refere-se à tabela do diamante
+
+tipo: quantitativa 
+
+subtipo:contínua
+
+-9
+variavel: price
+
+descricao: refere-se ao preço do diamante
+
+tipo: quantitativa 
+
+subtipo: discreta
 
