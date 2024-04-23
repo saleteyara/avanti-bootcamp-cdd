@@ -1,0 +1,27 @@
+~1
+variavel: carat
+
+descricao: refere-se ao peso do diamante
+
+tipo: quantitativa 
+
+subtipo:contínua
+
+~2
+variavel: cut
+
+descricao: refere-se à qualidade do diamante
+
+tipo: qualitativa
+
+subtipo:nominal
+
+~3
+variavel: color
+
+descricao: refere-se à cor do diamante
+
+tipo: qualitativa
+
+subtipo:nominal
+
